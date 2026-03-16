@@ -7,7 +7,10 @@
 ---
 
 <p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/Profile_Views- rahura?logo=eye&color=0e75b6" alt="rahulraji18 profile views" />
+<a href="https://drive.google.com/file/d/1yiN4OnFxsHHLfT9BRdVdCTHOQGaPBMBY/view" target="_blank">
+  <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+</a>
+  <!-- <img src="https://custom-icon-badges.demolab.com/badge/Profile_Views- rahura?logo=eye&color=0e75b6" alt="rahulraji18 profile views" /> -->
   <a href="https://twitter.com/@rahulra22157099" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulra22157099?logo=twitter&style=for-the-badge" alt="Follow @rahulra22157099 on Twitter" /></a>
 </p>
 
