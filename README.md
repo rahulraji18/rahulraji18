@@ -1,16 +1,20 @@
 # Hi 👋, I'm Rahul R
 
-### Full Stack Engineer | Node.js Developer | React.js & Next.js Developer | API Integration Expert
+### 🚀 Full Stack Engineer | Node.js Developer | React.js & Next.js Developer | API Integration Expert
 
-🚀 Full Stack Engineer with 4+ years of experience building scalable web applications, enterprise platforms, logistics systems, ERP solutions, payment integrations, and AI-powered applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulraji18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-I specialize in designing robust backend architectures using Node.js while creating modern frontend experiences using React.js, Next.js, Three.js, and TypeScript.
+Full Stack Engineer with **4+ years of professional experience** building scalable web applications, enterprise platforms, logistics systems, ERP solutions, payment integrations, and AI-powered applications.
+
+I specialize in designing robust backend architectures using **Node.js** while creating modern frontend experiences using **React.js, Next.js, Three.js, GSAP, and TypeScript**.
 
 ---
 
-## 🌐 Portfolio & Profiles
+# 🌐 Portfolio & Profiles
 
-🌍 Portfolio: https://your-portfolio-link.com
+🌍 Portfolio: https://your-portfolio-domain.com
 
 💼 LinkedIn: https://linkedin.com/in/rahul-rajeevan
 
@@ -24,7 +28,7 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 * 💼 4+ Years of Professional Software Development Experience
 * ⚙️ Specialized in Node.js Ecosystem
@@ -39,7 +43,7 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 * Building scalable backend systems with Node.js
 * Developing modern web applications using React.js & Next.js
@@ -49,7 +53,7 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-## 🏆 Industry Experience
+# 🏆 Industry Experience
 
 * Logistics & Courier Management Platforms
 * ERP & Business Management Systems
@@ -61,14 +65,13 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 🚀 Backend Development
+## 🚀 Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge)
-![Express](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge\&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js" />
+</p>
 
 * Node.js
 * NestJS
@@ -85,11 +88,11 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" />
+</p>
 
 * React.js
 * Next.js
@@ -105,7 +108,11 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
 * PostgreSQL
 * MySQL
@@ -114,7 +121,7 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-### 🔄 ORM / ODM
+## 🔄 ORM / ODM
 
 * Mongoose ODM
 * Sequelize ORM
@@ -123,18 +130,23 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,github" />
+</p>
 
 * AWS S3
 * Docker
 * Jenkins
+* Redis
 * Linux
 * Git
 * GitHub
 
 ---
 
-### 💳 Payment Integrations
+## 💳 Payment Gateway Integrations
 
 * Stripe
 * Razorpay
@@ -142,7 +154,7 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-### 📦 Logistics Integrations
+## 📦 Logistics API Integrations
 
 * FedEx API
 * DHL API
@@ -151,16 +163,17 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-### 🤖 AI & Automation
+## 🤖 AI & Automation
 
 * OpenAI API
 * ChatGPT Integration
 * AI Assessment Systems
 * Automated Question Generation
+* Workflow Automation
 
 ---
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 
 * Postman
 * Swagger
@@ -171,7 +184,7 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-## 🚀 What I Build
+# 🚀 What I Build
 
 ✅ Enterprise Web Applications
 
@@ -179,23 +192,23 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ✅ ERP & Business Management Solutions
 
-✅ Logistics & Courier Platforms
+✅ Logistics & Courier Management Platforms
 
-✅ Hiring & Recruitment Systems
+✅ Professional Networking & Hiring Platforms
 
-✅ Booking & Reservation Platforms
+✅ Booking & Reservation Systems
 
 ✅ AI-Powered Applications
 
-✅ Real-Time Applications
+✅ Real-Time Applications Using Socket.io
 
-✅ Interactive 3D Experiences
+✅ Interactive 3D Experiences Using Three.js
 
 ---
 
-## 🏗 Featured Projects
+# 🏗 Featured Projects
 
-### 🚚 Delybell – Delivery Management Platform
+## 🚚 Delybell – Delivery Management Platform
 
 * Multi-carrier shipment management
 * Real-time shipment tracking
@@ -203,75 +216,88 @@ I specialize in designing robust backend architectures using Node.js while creat
 * Shipping rate calculation
 * FedEx, DHL, Aramex & SMSA integrations
 
-**Stack:** Next.js, AdonisJS, TypeScript, MySQL
+**Tech Stack:** Next.js, AdonisJS, TypeScript, MySQL
 
-### 👥 ProfileUP – Professional Networking & Hiring Platform
+---
+
+## 👥 ProfileUP – Professional Networking & Hiring Platform
 
 * Hiring workflow management
 * Kanban recruitment tracking
 * OpenAI-powered assessments
 * Razorpay payment integration
 
-**Stack:** Next.js, AdonisJS, MySQL, OpenAI API
+**Tech Stack:** Next.js, AdonisJS, MySQL, OpenAI API
 
-### 💰 PlanGenie – Budget Management Platform
+---
+
+## 💰 PlanGenie – Budget Management Platform
 
 * Budget planning
 * Financial tracking
 * Reporting dashboards
 
-**Stack:** React.js, AdonisJS, TypeScript, MySQL
+**Tech Stack:** React.js, AdonisJS, TypeScript, MySQL
 
-### 🏠 Two Stay – Accommodation Booking Platform
+---
+
+## 🏠 Two Stay – Accommodation Booking Platform
 
 * Accommodation booking
 * Transportation booking
 * Automated invoicing
 
-**Stack:** Node.js, PostgreSQL, Sequelize
+**Tech Stack:** Node.js, PostgreSQL, Sequelize ORM
 
-### 🏥 MedBridge – Doctor Appointment Platform
+---
+
+## 🏥 MedBridge – Doctor Appointment Platform
 
 * Real-time appointment management
 * Payment integration
 * Socket.io communication
 
-**Stack:** Next.js, Socket.io, Razorpay
+**Tech Stack:** Next.js, Socket.io, Razorpay
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulraji18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulraji18&show_icons=true&theme=github_dark&hide_border=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraji18&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraji18&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ GitHub Activity Graph
+# ⚡ GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulraji18&theme=tokyo-night&hide_border=true"/>
-</p>
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulraji18\&theme=github)](https://github.com/rahulraji18)
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
+> Configure the snake workflow first. After setup, uncomment the image below.
+
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulraji18/rahulraji18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
----
-
-## 📚 Latest Articles
-
-📝 https://medium.com/@rahulrajesh474
+-->
 
 ---
 
-## 🌐 Connect With Me
+# 📚 Latest Articles
+
+📝 Technical Articles & Development Insights
+
+* https://medium.com/@rahulrajesh474
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -287,6 +313,10 @@ I specialize in designing robust backend architectures using Node.js while creat
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
+<a href="https://medium.com/@rahulrajesh474">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="45"/>
+</a>
+
 <a href="https://instagram.com/rahul.rajeevan">
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
@@ -297,9 +327,27 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 </p>
 
+### 🔗 Profiles
+
+🌍 Portfolio: https://your-portfolio-domain.com
+
+💼 LinkedIn: https://linkedin.com/in/rahul-rajeevan
+
+📝 Medium: https://medium.com/@rahulrajesh474
+
+📸 Instagram: https://instagram.com/rahul.rajeevan
+
+🐦 Twitter/X: https://twitter.com/rahulra22157099
+
+💻 GitHub: https://github.com/rahulraji18
+
+📧 Email: [rahulrajesh474@gmail.com](mailto:rahulrajesh474@gmail.com)
+
+📍 Kollam, Kerala, India
+
 ---
 
-## 🎯 Open To Opportunities
+# 🎯 Open To Opportunities
 
 * Full Stack Engineer
 * Full Stack Developer
@@ -311,11 +359,14 @@ I specialize in designing robust backend architectures using Node.js while creat
 * Next.js Developer
 * Software Engineer
 * API Integration Engineer
+* Product Development Engineer
 
 ---
 
-## 💡 Philosophy
+# 💡 Philosophy
 
 > Build scalable systems, write clean code, automate repetitive work, and never stop learning.
+
+---
 
 ⭐ Thanks for visiting my profile. Feel free to explore my repositories, read my articles, and connect with me.
