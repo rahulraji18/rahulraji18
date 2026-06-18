@@ -279,13 +279,10 @@ I specialize in designing robust backend architectures using **Node.js** while c
 
 # 🐍 Contribution Snake
 
-> Configure the snake workflow first. After setup, uncomment the image below.
-
-<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulraji18/rahulraji18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
--->
+
 
 ---
 
