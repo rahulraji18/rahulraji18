@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rahul R
+# Hi 👋, I'm Rahul Rajeevan
 
 ### 🚀 Full Stack Engineer | Node.js Developer | React.js & Next.js Developer | API Integration Expert
 
@@ -18,7 +18,7 @@ I specialize in designing robust backend architectures using **Node.js** while c
 
 💼 LinkedIn: https://linkedin.com/in/rahul-rajeevan
 
-📝 Medium: https://medium.com/@rahulrajesh474
+📝 Medium: https://rahulraji18.medium.com/
 
 💻 GitHub: https://github.com/rahulraji18
 
@@ -289,7 +289,7 @@ I specialize in designing robust backend architectures using **Node.js** while c
 
 📝 Technical Articles & Development Insights
 
-* https://medium.com/@rahulrajesh474
+* https://rahulraji18.medium.com/
 
 ---
 
@@ -309,7 +309,7 @@ I specialize in designing robust backend architectures using **Node.js** while c
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
-<a href="https://medium.com/@rahulrajesh474">
+<a href="https://rahulraji18.medium.com/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="45"/>
 </a>
 
@@ -329,7 +329,7 @@ I specialize in designing robust backend architectures using **Node.js** while c
 
 💼 LinkedIn: https://linkedin.com/in/rahul-rajeevan
 
-📝 Medium: https://medium.com/@rahulrajesh474
+📝 Medium: https://rahulraji18.medium.com/
 
 📸 Instagram: https://instagram.com/rahul.rajeevan
 
