@@ -1,109 +1,330 @@
 # Hi 👋, I'm Rahul R
 
-## Full Stack Engineer • Specializing in Scalable API & Payment Integrations (Stripe, Razorpay)
+### Full Stack Engineer | Node.js Developer | React.js & Next.js Developer | API Integration Expert
 
-<img align="right" alt="Rahul R - Full Stack Engineer" width="400" src="https://drive.google.com/uc?export=download&id=16szdekcQ6k7fZMtGfcXjsjfOlpxDSYmr">
+🚀 Full Stack Engineer with 4+ years of experience building scalable web applications, enterprise platforms, logistics systems, ERP solutions, payment integrations, and AI-powered applications.
+
+I specialize in designing robust backend architectures using Node.js while creating modern frontend experiences using React.js, Next.js, Three.js, and TypeScript.
 
 ---
 
+## 🌐 Portfolio & Profiles
+
+🌍 Portfolio: https://your-portfolio-link.com
+
+💼 LinkedIn: https://linkedin.com/in/rahul-rajeevan
+
+📝 Medium: https://medium.com/@rahulrajesh474
+
+💻 GitHub: https://github.com/rahulraji18
+
+📧 Email: [rahulrajesh474@gmail.com](mailto:rahulrajesh474@gmail.com)
+
+📍 Kollam, Kerala, India
+
+---
+
+## 💫 About Me
+
+* 💼 4+ Years of Professional Software Development Experience
+* ⚙️ Specialized in Node.js Ecosystem
+* 🌐 Full Stack Development with React.js & Next.js
+* 🎨 Interactive Experiences using Three.js & GSAP
+* ☁️ Experience with AWS S3, Docker, Jenkins & Redis
+* 💳 Payment Gateway Integration Specialist
+* 📦 Logistics & Shipment Automation Systems
+* 🤖 OpenAI API Integration
+* 🐧 Linux Enthusiast
+* 🚀 Passionate About Scalable System Design
+
+---
+
+## 🚀 Current Focus
+
+* Building scalable backend systems with Node.js
+* Developing modern web applications using React.js & Next.js
+* Learning advanced system design and architecture
+* Exploring cloud-native applications and DevOps
+* Writing technical content on Medium
+
+---
+
+## 🏆 Industry Experience
+
+* Logistics & Courier Management Platforms
+* ERP & Business Management Systems
+* Professional Networking & Hiring Platforms
+* Healthcare Applications
+* Accommodation Booking Platforms
+* Payment Processing Systems
+* AI-Powered Applications
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge)
+![Express](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge\&logo=express)
+
+* Node.js
+* NestJS
+* AdonisJS
+* Express.js
+* TypeScript
+* JavaScript
+* REST APIs
+* JWT Authentication
+* Socket.io
+* Webhooks
+* OpenAI API Integration
+* Third-Party API Integrations
+
+---
+
+### 🎨 Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+* React.js
+* Next.js
+* Three.js
+* GSAP
+* Tailwind CSS
+* Bootstrap
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Responsive Design
+
+---
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+
+---
+
+### 🔄 ORM / ODM
+
+* Mongoose ODM
+* Sequelize ORM
+* Lucid ORM
+* Drizzle ORM
+
+---
+
+### ☁️ Cloud & DevOps
+
+* AWS S3
+* Docker
+* Jenkins
+* Linux
+* Git
+* GitHub
+
+---
+
+### 💳 Payment Integrations
+
+* Stripe
+* Razorpay
+* Flywire
+
+---
+
+### 📦 Logistics Integrations
+
+* FedEx API
+* DHL API
+* Aramex API
+* SMSA API
+
+---
+
+### 🤖 AI & Automation
+
+* OpenAI API
+* ChatGPT Integration
+* AI Assessment Systems
+* Automated Question Generation
+
+---
+
+### 🧰 Tools & Platforms
+
+* Postman
+* Swagger
+* Apidog
+* Jira
+* ClickUp
+* Zoho Projects
+
+---
+
+## 🚀 What I Build
+
+✅ Enterprise Web Applications
+
+✅ REST APIs & Backend Systems
+
+✅ ERP & Business Management Solutions
+
+✅ Logistics & Courier Platforms
+
+✅ Hiring & Recruitment Systems
+
+✅ Booking & Reservation Platforms
+
+✅ AI-Powered Applications
+
+✅ Real-Time Applications
+
+✅ Interactive 3D Experiences
+
+---
+
+## 🏗 Featured Projects
+
+### 🚚 Delybell – Delivery Management Platform
+
+* Multi-carrier shipment management
+* Real-time shipment tracking
+* Automated label generation
+* Shipping rate calculation
+* FedEx, DHL, Aramex & SMSA integrations
+
+**Stack:** Next.js, AdonisJS, TypeScript, MySQL
+
+### 👥 ProfileUP – Professional Networking & Hiring Platform
+
+* Hiring workflow management
+* Kanban recruitment tracking
+* OpenAI-powered assessments
+* Razorpay payment integration
+
+**Stack:** Next.js, AdonisJS, MySQL, OpenAI API
+
+### 💰 PlanGenie – Budget Management Platform
+
+* Budget planning
+* Financial tracking
+* Reporting dashboards
+
+**Stack:** React.js, AdonisJS, TypeScript, MySQL
+
+### 🏠 Two Stay – Accommodation Booking Platform
+
+* Accommodation booking
+* Transportation booking
+* Automated invoicing
+
+**Stack:** Node.js, PostgreSQL, Sequelize
+
+### 🏥 MedBridge – Doctor Appointment Platform
+
+* Real-time appointment management
+* Payment integration
+* Socket.io communication
+
+**Stack:** Next.js, Socket.io, Razorpay
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulraji18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraji18&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rahulraji18&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulraji18&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rahulraji18&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📚 Latest Articles
+
+📝 https://medium.com/@rahulrajesh474
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://drive.google.com/file/d/1yiN4OnFxsHHLfT9BRdVdCTHOQGaPBMBY/view" target="_blank">
-  <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+
+<a href="https://github.com/rahulraji18">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-  <!-- <img src="https://custom-icon-badges.demolab.com/badge/Profile_Views- rahura?logo=eye&color=0e75b6" alt="rahulraji18 profile views" /> -->
-  <a href="https://twitter.com/@rahulra22157099" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulra22157099?logo=twitter&style=for-the-badge" alt="Follow @rahulra22157099 on Twitter" /></a>
+
+<a href="https://linkedin.com/in/rahul-rajeevan">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:rahulrajesh474@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://instagram.com/rahul.rajeevan">
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+
+<a href="https://twitter.com/rahulra22157099">
+<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+</a>
+
 </p>
 
 ---
 
-### About Me 
+## 🎯 Open To Opportunities
 
-🚀 I am a Software Developer with 4+ years of experience building scalable full-stack web applications and high-performance backend systems.
-
-I have strong experience working across the entire development stack, from backend architecture and database design to modern frontend interfaces.
-
-I enjoy solving complex backend problems, designing scalable systems, and integrating external services that power modern digital platforms.
-
----
-
-### Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rahul-rajeevan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn @rahul-rajeevan" height="30" width="40" /></a>
-  <a href="https://instagram.com/rahul.rajeevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram @rahul.rajeevan" height="30" width="40" /></a>
-  <a href="https://twitter.com/@rahulra22157099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter @rahulra22157099" height="30" width="40" /></a>
-</p>
+* Full Stack Engineer
+* Full Stack Developer
+* Node.js Developer
+* Senior Node.js Developer
+* Backend Engineer
+* Backend Developer
+* React.js Developer
+* Next.js Developer
+* Software Engineer
+* API Integration Engineer
 
 ---
 
-### Languages and Tools:
+## 💡 Philosophy
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="NestJS" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-</p>
+> Build scalable systems, write clean code, automate repetitive work, and never stop learning.
 
----
-
-### Core Expertise & Built Platforms:
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <h4>🏆 Core Expertises</h4>
-        <ul>
-          <li><strong>REST API Development</strong> (Robust Systems)</li>
-          <li><strong>Webhook Integration</strong> (Real-time data flow)</li>
-          <li><strong>JWT Authentication</strong> (Secure Access Control)</li>
-          <li><strong>AWS S3 File Storage</strong> (Scalable assets)</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h4>🏗️ Platforms I Have Built</h4>
-        <ul>
-          <li><strong>Delivery & logistics management systems</strong></li>
-          <li><strong>Professional networking and hiring platforms</strong></li>
-          <li><strong>ERP and business management applications</strong></li>
-          <li><strong>Booking and service platforms</strong></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <h4>💳 Payment Gateway Integrations</h4>
-        <p>Stripe • Razorpay • Flywire</p>
-      </td>
-      <td valign="top" width="50%">
-        <h4>📦 Logistics / Courier Integrations</h4>
-        <p>FedEx • DHL • Aramex • SMSA</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### GitHub Streak Stats:
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraji18&theme=dark" alt="GitHub Streak Stats rahulraji18" />
-</div>
-
----
-
-#### 💡 Open to opportunities in:
-
-Full Stack Development • Backend Engineering • Node.js Development
-
----
+⭐ Thanks for visiting my profile. Feel free to explore my repositories, read my articles, and connect with me.
