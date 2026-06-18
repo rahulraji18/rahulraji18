@@ -279,10 +279,9 @@ I specialize in designing robust backend architectures using **Node.js** while c
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulraji18/rahulraji18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraji18&theme=dark" alt="GitHub Streak Stats rahulraji18" />
+</div>
 
 ---
 
