@@ -240,20 +240,12 @@ I specialize in designing robust backend architectures using Node.js while creat
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulraji18&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulraji18&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraji18&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rahulraji18&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraji18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -261,17 +253,16 @@ I specialize in designing robust backend architectures using Node.js while creat
 ## ⚡ GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulraji18&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulraji18&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahulraji18&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://raw.githubusercontent.com/rahulraji18/rahulraji18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
 ---
 
 ## 📚 Latest Articles
