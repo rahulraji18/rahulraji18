@@ -14,7 +14,7 @@ I specialize in designing robust backend architectures using **Node.js** while c
 
 # 🌐 Portfolio & Profiles
 
-🌍 Portfolio: Soon...
+🌍 Portfolio: (https://rahulraji18.github.io/rahul-rajeevan/)
 
 💼 LinkedIn: https://linkedin.com/in/rahul-rajeevan
 
@@ -325,7 +325,7 @@ I specialize in designing robust backend architectures using **Node.js** while c
 
 ### 🔗 Profiles
 
-🌍 Portfolio: Soon...
+🌍 Portfolio: https://rahulraji18.github.io/rahul-rajeevan/
 
 💼 LinkedIn: https://linkedin.com/in/rahul-rajeevan
 
